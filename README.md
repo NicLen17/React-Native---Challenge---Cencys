@@ -3,7 +3,7 @@ Challenge dado a postutalte.
 ### *Para desplegar el proyecto en local seguir los siguientes pasos 🦾*
 
 *Llevar a cabo estos paso luego haber instalado react native y android studio, con su correspondiente dispositivo virtual*
-*Si se tiene dudas acerca de estos requerimientos consultar la documentacion de reactnative.dev*
+*Si se tiene dudas acerca de estos requerimientos consultar la documentacion de https://reactnative.dev/docs/environment-setup*
 
 1.  Clonar el repositorio conel siguiente comando en la terminal **git clone** **https://github.com/NicLen17/React-Native---Challenge---Cencys.git**
 
@@ -18,6 +18,6 @@ Challenge dado a postutalte.
 
 ## A tener en cuenta...
 
--Se trabajo sin Expo y con el API de Openweathermap. 
--Para su desarrollo el programa se ejecuto en android studio.
--Se realizaron ajustes al BackEnd en comparacion al anterior enviado.
+*-Se trabajo sin Expo y con el API de Openweathermap.* 
+*-Para su desarrollo el programa se ejecuto en android studio.*
+*-Se realizaron ajustes al BackEnd en comparacion al anterior enviado.*
