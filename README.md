@@ -15,7 +15,8 @@ Challenge dado a postutalte.
 
 ### Fabio Nicolas Ramos Legname 
 
-### A tener en cuenta...
+
+## A tener en cuenta...
 
 -Se trabajo sin Expo y con el API de Openweathermap. 
 -Para su desarrollo el programa se ejecuto en android studio.
