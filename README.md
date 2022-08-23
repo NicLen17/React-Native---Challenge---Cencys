@@ -19,5 +19,7 @@ Challenge dado a postutalte.
 ## A tener en cuenta...
 
 *-Se trabajo sin Expo y con el API de Openweathermap.* 
+
 *-Para su desarrollo el programa se ejecuto en android studio.*
+
 *-Se realizaron ajustes al BackEnd en comparacion al anterior enviado.*
