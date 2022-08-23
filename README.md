@@ -1,7 +1,5 @@
 ##  Challenge RN Censys
-
 Challenge dado a postutalte.
-
 ### *Para desplegar el proyecto en local seguir los siguientes pasos 🦾*
 
 *Llevar a cabo estos paso luego haber instalado react native y android studio, con su correspondiente dispositivo virtual*
@@ -17,7 +15,7 @@ Challenge dado a postutalte.
 
 ### Fabio Nicolas Ramos Legname 
 
-###A tener en cuenta...
+### A tener en cuenta...
 
 -Se trabajo sin Expo y con el API de Openweathermap. 
 -Para su desarrollo el programa se ejecuto en android studio.
