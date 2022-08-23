@@ -23,3 +23,5 @@ Challenge dado a postutalte.
 *-Para su desarrollo el programa se ejecuto en android studio.*
 
 *-Se realizaron ajustes al BackEnd en comparacion al anterior enviado.*
+
+*-Se retiro el gitignore a proposito para hacer mas sencillas las pruebas a la aplicacion.*
