@@ -24,4 +24,4 @@ Challenge dado a postutalte.
 
 *-Se realizaron ajustes al BackEnd en comparacion al anterior enviado.*
 
-*-Se retiro el gitignore a proposito para hacer mas sencillas las pruebas a la aplicacion.*
+*-Se retiro el gitignore al archivo .env a proposito para hacer mas sencillas las pruebas a la aplicacion.*
